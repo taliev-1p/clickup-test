@@ -12,6 +12,6 @@ exit
 
 object HelloWorld {
   def main(args: Array[String]) {
-    println("Hello, world! " + args.toList)
+    println("Hello, Universe! " + args.toList)
   }
 }
